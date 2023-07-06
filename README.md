@@ -13,4 +13,4 @@
 * [0x04. Typescript](https://github.com/gama1221/alx-frontend-javascript/tree/main/0x04-TypeScript/README.md)
 
 ## Author
-* Getinet Amare Mekonnen [LinkedIn](https://www.linkedin.com/in/getinet-mekonnen/) => or follow this link https://www.linkedin.com/in/getinet-mekonnen/
+* Asefa Mulu Tadesse [LinkedIn](https://github.com/ase12345) => or follow this link https://www.linkedin.com/in/Asefa Mulu/
